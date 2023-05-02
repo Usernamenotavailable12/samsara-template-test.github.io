@@ -420,6 +420,12 @@ nav {
   width: 40px;
   transition-delay: 1.25s;
 }
+@media (max-width:720px) {
+  nav {
+    right: 1em;
+    top: 1em;
+  }
+}
 
 ul.main-nav {
   padding-right: 20px;
@@ -735,7 +741,7 @@ ul.main-nav.show-it {
   padding: 20px 10px;
   text-align: center;
 }
-@media(max-width: 960px) {
+@media(max-width: 720px) {
   .tile {
       width: 280px;
       height: 500px;
