@@ -423,7 +423,7 @@ nav {
   width: 40px;
   transition-delay: 1.25s;
 }
-@media (max-width:720px) {
+@media (max-width:768px) {
   nav {
     right: 1em;
     top: 1em;
@@ -457,7 +457,7 @@ ul.main-nav.show-it {
   transition-delay: .25s;
 }
 /* Let's optimise it for mobile devices */
-@media (max-width: 720px){
+@media (max-width: 768px){
   .btn-lg {
     padding: .8em 3em;
     font-size: .8em;
@@ -751,7 +751,7 @@ ul.main-nav.show-it {
   padding: 20px 10px;
   text-align: center;
 }
-@media(max-width: 720px) {
+@media(max-width: 768px) {
   .tile {
       width: 280px;
       height: 500px;
