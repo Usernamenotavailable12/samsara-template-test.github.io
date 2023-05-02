@@ -679,7 +679,7 @@ ul.main-nav.show-it {
 
 .tile button {
   position: sticky;
-  top: 100%;
+  top: 82%;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -776,7 +776,7 @@ ul.main-nav.show-it {
   }
   .tile button {
     position: sticky;
-    top: 100%;
+    top: 85%;
     display: block;
     padding: 8px;
     transform: scale(0.9);
