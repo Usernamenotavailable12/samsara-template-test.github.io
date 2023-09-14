@@ -752,6 +752,9 @@ ul.main-nav.show-it {
   padding: 20px 10px;
   text-align: center;
 }
+.contact-text {
+  font-size: 15px;
+}
 @media(max-width: 768px) {
   .tile {
       width: 280px;
